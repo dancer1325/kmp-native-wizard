@@ -20,3 +20,11 @@ Please read [our code of conduct](https://github.com/jetbrains#code-of-conduct).
 ## License
 
 The [kmp-native-wizard template](https://github.com/Kotlin/kmp-native-wizard/) is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
+
+
+# Getting Started Tutorial
+* [Kotlin documentation](https://kotlinlang.org/docs/native-get-started.html)
+* 👀if you want to create Kotlin/Native applications -> you need the Kotlin Multiplatform Gradle plugin installed 👀
+
+## How to run?
+* via IDE | "src/nativeMain/kotlin/Main.kt"
